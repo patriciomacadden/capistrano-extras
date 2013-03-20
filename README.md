@@ -28,7 +28,7 @@ $ gem install capistrano-extras
 
 * Require the gem in Capfile:
 
-```
+```ruby
 require 'capistrano/extras'
 ```
 
